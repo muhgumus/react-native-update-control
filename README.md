@@ -15,5 +15,5 @@ Step 2
 
     import UpdateControl from 'react-native-update-control';
 
-    UpdateControl.init("debug");
+    UpdateControl("debug");
 
