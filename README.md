@@ -15,5 +15,10 @@ Step 2
 
     import UpdateControl from 'react-native-update-control';
 
-    UpdateControl("debug");
+    UpdateControl({
+        title:"Güncelleme", 
+        description:"Uygulamanın yeni bir versiyonu bulunmaktadır. Daha iyi bir hizmet almak için, Lütfen uygulamayı güncelleyiniz.",
+        cancelText:"DAHA SONRA",
+        okText:"GÜNCELLE"
+        });
 
