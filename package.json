@@ -1,6 +1,6 @@
 {
   "name": "react-native-update-control",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React native Update Control module",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/muhgumus/react-native-update-control#readme",
   "dependencies": {
-    "react-native-cheerio":"^1.0.0-rc.4"
+    "react-native-cheerio": "^1.0.0-rc.4"
   }
 }
