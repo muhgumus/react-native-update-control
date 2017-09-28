@@ -1,0 +1,35 @@
+{
+  "name": "react-native-update-control",
+  "version": "0.1.0",
+  "description": "React native Update Control module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhgumus/react-native-update-control.git"
+  },
+  "keywords": [
+    "update",
+    "control",
+    "version",
+    "control",
+    "react-native",
+    "app",
+    "store",
+    "play",
+    "store"
+  ],
+  "author": "Muhammed GÜMÜŞ <muhgumus@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhgumus/react-native-update-control/issues"
+  },
+  "homepage": "https://github.com/muhgumus/react-native-update-control#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
