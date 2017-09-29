@@ -3,11 +3,11 @@ var DeviceInfo = require('react-native-device-info');
 const cheerio = require('react-native-cheerio');
 
 var content = {
-    title: "Update",
-    description: "There was Update",
-    cancelText: "CANCEL",
-    okText: "OK"
-}
+    title:"Version", 
+    description:"A new version of the application is available. To get a better service, please update the application.",
+    cancelText:"CANCEL",
+    okText:"UPDATE"
+    }
 
 export default function (param) {
     content = param;
