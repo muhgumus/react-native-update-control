@@ -25,3 +25,6 @@ Step 2
         okText:"UPDATE"
         });
 
+## Preview 
+
+![alt text](https://github.com/muhgumus/react-native-update-control/blob/master/preview.gif?raw=true)
